@@ -1,0 +1,18 @@
+Authentication-Results: spf=temperror (sender IP is 137.184.34.4)
+From: BANCO DO BRADESCO LIVELO <banco.bradesco@atendimento.com.br>
+Return-Path: root@ubuntu-s-1vcpu-server
+Subject: CLIENTE PRIME - BRADESCO LIVELO: 92,990 points expiring today
+Date: Tue, 19 Sep 2023 18:35:49 +0000
+X-Sender-IP: 137.184.34.4
+Content-Type: text/html
+
+Banco do Bradesco (Livelo)
+
+You have 92,990 points available that will expire today.
+
+Redeem your points now to avoid losing them.
+
+Click here:
+https://blog1seguimentmydomaine2bra.me/
+
+Redeem Now

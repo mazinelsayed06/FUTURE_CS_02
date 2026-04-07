@@ -1,0 +1,19 @@
+Authentication-Results: spf=fail (sender IP is 109.202.24.52)
+From: "Mr.Wood Forest" <nemani.tukunia@postfiji.com.fj>
+Reply-To: mywoodforestbiz.7@gmail.com
+Subject: Attention: I am Diplomatic agent Mr. Wood Forest
+Date: Sat, 29 Jul 2023 13:03:39 -0700
+X-Sender-IP: 109.202.24.52
+Content-Type: text/plain
+
+Attention,
+
+I am Diplomatic agent Mr. Wood Forest. I have arrived in your country with your consignment box containing $10.5 million USD.
+
+Kindly confirm your home address and phone number so I can deliver the package.
+
+Please respond urgently.
+
+Regards,
+Mr. Wood Forest
+IMF Agent

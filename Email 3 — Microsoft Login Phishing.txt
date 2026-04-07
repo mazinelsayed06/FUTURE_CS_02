@@ -1,0 +1,22 @@
+Authentication-Results: spf=none (sender IP is 89.144.9.87)
+ smtp.mailfrom=nonkfrgr.co.uk; dkim=none; dmarc=permerror
+From: Microsoft account team <no-reply@access-accsecurity.com>
+Reply-To: solutionteamrecognizd02@gmail.com
+Return-Path: bounce@nonkfrgr.co.uk
+Subject: Microsoft account unusual signin activity
+Date: Thu, 27 Jul 2023 07:40:03 +0000
+X-Sender-IP: 89.144.9.87
+Content-Type: text/html
+
+Microsoft account
+
+Unusual sign-in activity
+
+We detected something unusual about a recent sign-in.
+
+Location: Russia/Moscow
+IP: 103.225.77.255
+
+If this wasn't you, please report the activity.
+
+[Report The User]

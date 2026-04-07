@@ -1,0 +1,18 @@
+Subject: New Voice Message Received
+From: noreply@voice-secure.example.com
+To: user@example.com
+Date: Mon, 10 Jul 2023 09:12:45 +0000
+Content-Type: text/html
+
+Dear User,
+
+You have received a new voice message.
+
+Duration: 0:45 seconds
+
+Please download the attached file to listen to your message.
+
+Attachment: VoiceMessage_0710.zip
+
+Thank you,
+Voice Messaging Service

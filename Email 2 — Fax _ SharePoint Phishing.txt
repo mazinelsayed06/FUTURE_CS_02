@@ -1,0 +1,19 @@
+Subject: New Fax Received
+From: sharepoint@secure-docs.example.com
+To: undisclosed-recipients:;
+Date: Tue, 11 Jul 2023 14:22:10 +0000
+Content-Type: text/html
+
+Dear User,
+
+You have received a new fax document.
+
+File Name: Fax_2023_07_11.pdf
+Size: 18.5MB
+
+Click below to view your fax:
+http://secure-sharepoint-docs.example.com/view
+
+Print & Preview Here
+
+Microsoft SharePoint Services
